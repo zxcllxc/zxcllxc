@@ -1,6 +1,6 @@
 # Hi, I'm Doni 👋
 
-CS student at JIHC (Taraz, Kazakhstan). I build AI products for real people in my region — and ship them.
+CS / Mobile Development student at JIHC (Taraz, Kazakhstan). I build AI products for real people in my region — and ship them.
 
 ### What I've built
 | Project | What | Link |
